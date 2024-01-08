@@ -192,12 +192,42 @@ novelty. To that end this proposal recommends the following system of dynamicall
 * Variation on system for drink mixing:
    * Static set of effects for base alcohol type(s)
    * Complexity influenced by mixers + garnishing.
+      * Possibly also rare alcohol variations
 
 
-## Interdepartmental Relationships
+## Interdepartmental Interactions
+
+### Improvements from other Departments
+* Produce from botany
+* Better base ingredients from cargo
+* Rare ingredients from salvage
+* Improved cooking machines from science
+* Strange ingredients from chemistry
+
+
+### Improvements for other Departments
+
+
+* Tasty snacks and treats with cool buffs
+
 
 
 ## Required Machines, Containers, and Implements
+
+### Machines
+
+* A reworked microwave oven
+* A traditional oven
+* A stovetop/grill
+
+### Containers
+
+* A combined Item/Regent container and variants
+
+
+### Implements
+
+
 
 
 ## Future Opportunities
