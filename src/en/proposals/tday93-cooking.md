@@ -87,6 +87,8 @@ To that end, this proposal recommends the following set of baseline cooking and 
 9. The chef serves a number of burgers all at once.
 
 
+> WIP AND/OR NOTES BELOW HERE
+
 ## Food and Drink Effects
 
 In order to distinguish foods from one-another mechanically
@@ -102,7 +104,21 @@ If there is no mechanical reason to produce more complex foods, players will hav
 novelty. To that end this proposal recommends the following system of dynamically calculated status effects.
 
 1. Each ingredient used to cook a food or mix a drink would have one or more Effect/Priority pairs.
-    * The effect determines the effect granted by the completed food/drink on consumption
+    * The effect determines the effect granted by the completed food/drink on consumption if it is chosen.
+    * The priority determines the priority by which that effect is selected on comsuption from all possible effects.
+2. Each ingredient or food item has a single complexity/intensity value, which would determin:
+   * The number of effects granted by the food on consumption
+   * The strength of those effects when granted.
+
+* Cooking operations can increase the complexity/intensity
+* Some sort of math to determine complexity => number of effects granted
+* Ingredient selection as means of determining end effects.
+
+
+* Variation on system for drink mixing:
+   * Static set of effects for base alcohol type(s)
+   * Complexity influenced by mixers + garnishing.
+
 
 ## Required Machines, Containers, and Implements
 
