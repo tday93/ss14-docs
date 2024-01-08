@@ -93,6 +93,11 @@ To that end, this proposal recommends the following set of baseline cooking and 
 
 In order to distinguish foods from one-another mechanically
 
+* Possible effects should:
+   * Be generally beneficial
+   * Not cause gameplay problems, no burger of stun resistance
+   * Be desirable by players
+
 
 
 
