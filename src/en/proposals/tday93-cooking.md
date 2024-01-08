@@ -118,6 +118,7 @@ novelty. To that end this proposal recommends the following system of dynamicall
 * Variation on system for drink mixing:
    * Static set of effects for base alcohol type(s)
    * Complexity influenced by mixers + garnishing.
+      * Also by rare/special alcohol variations (maybe findable on salvage missiones, or orderable via cargo, captain should definitely have a private stash)
 
 
 ## Required Machines, Containers, and Implements
