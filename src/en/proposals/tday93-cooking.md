@@ -197,6 +197,13 @@ novelty. To that end this proposal recommends the following system of dynamicall
 
 ## Interdepartmental Interactions
 
+In order to allow players playing as chefs and bartenders an interesting experience each round, regardless of how other
+departments are run, cooking and bartending should not _require_ inputs from other departments. However, resources from
+other departments should allow cooking and bartending to produce higher quality foods and drinks, or unlock effects for
+foods and drinks that are otherwise unobtainable. Where possible, help from a given department should allow for the
+creation of items that are especially useful for that department.
+
+
 ### Improvements from other Departments
 * Produce from botany
 * Better base ingredients from cargo
