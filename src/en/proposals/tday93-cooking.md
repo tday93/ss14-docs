@@ -95,6 +95,7 @@ In order to distinguish foods and drinks from one-another mechanically, each foo
 mechanically distinguishable effect. While the scope of the possible effects is immense, this proposal recommends the
 following general guidelines for designing food or drink sourced status effects.
 
+<<<<<<< HEAD
 1. They should be desirable by and obvious to players, ideally for reasons beyond powergaming.
    * Mathematical advantages are fine, but where possible look for more interesting effects.
 2. They should avoid causing issues of balance.
@@ -102,6 +103,13 @@ following general guidelines for designing food or drink sourced status effects.
 3. They should have minimal overlap with effects available from chemistry or medical treatment.
    * No healing, no direct copies of effects obtained from drugs.
 4. Where possible, they should benefit the players work on the station.
+=======
+* Possible effects should:
+   * Be generally beneficial
+   * Not cause gameplay problems, no burger of stun resistance
+   * Be desirable by players
+
+>>>>>>> 0ac25e2748c4c7ae16588f4b27dcebb5c5409aa0
 
 
 Guideline one is obvious - more desirable effects means more desriable foods and drinks. Additionally, while
@@ -192,6 +200,7 @@ novelty. To that end this proposal recommends the following system of dynamicall
 * Variation on system for drink mixing:
    * Static set of effects for base alcohol type(s)
    * Complexity influenced by mixers + garnishing.
+<<<<<<< HEAD
       * Possibly also rare alcohol variations
 
 
@@ -210,6 +219,9 @@ novelty. To that end this proposal recommends the following system of dynamicall
 
 * Tasty snacks and treats with cool buffs
 
+=======
+      * Also by rare/special alcohol variations (maybe findable on salvage missiones, or orderable via cargo, captain should definitely have a private stash)
+>>>>>>> 0ac25e2748c4c7ae16588f4b27dcebb5c5409aa0
 
 
 ## Required Machines, Containers, and Implements
