@@ -34,26 +34,41 @@ Additionally, to better match how real-world kitchens operate, these mechanics s
 possible. A chef serving a station of 80 people would not individually prepare 80 single bowls of soup, each from
 scratch. They would make 80 bowls worth of soup in a single batch, and split it in to 80 portions.
 
-To that end, this proposal recommends the following set of baseline cooking and bartending mechanics.
+Finally, these mechanics should be easily expandable, enabling additions of new cooking/mixing mechanics with only yaml.
+
 
 ### Proposed Base Mechanics
 
-> Note: Several of these exist in-game already, either fully or in-part. They are listed here to allow a complete list
-> of base mechanics.
+
+#### Implement used on an item
+
+
 
 * Chopping / Slicing / Dicing: Using a knife on an ingredient or food that has been placed within the world.
 * Rolling: Using a rolling pin on an ingredient that has been placed within the world.
-* Topping: Using an ingredient or container filled with a single ingrdient on another that has been placed within the world.
 * Mixing / Stirring: Using a mixing implement on a container filled with ingredients that has been placed within the world.
+
+#### Food Item/Container used on an item
+
+* Topping: Using an ingredient or container filled with a single ingrdient on another that has been placed within the world.
+
+#### In-World Heating
+
 * Sauteeing / Boiling / Grilling: Placing an ingredient or container filled with ingredients on to a stovetop or range within the
     world, until a visual indicator shows that it is "done".
+
+
+#### In-Device Heating
 * Baking / Microwaving: Placing a single ingredient or container of ingredients within an oven or microwave for a fixed
     amount of time. Note that this operation would operate on each ingredient or container thereof indivudually. Flat
     dough and four tomatoes will no longer magically voltron into a pizza.
 
+
+
 * Shaking: Using a mixer filled with ingredients and ice.
 * Pouring: Transfering liquid ingredients from one container to another.
 * Garnishing: Using a prepared ingredient or decoration on a drink container that has been placed within the world.
+
 
 
 ### Example Cooking Processes
@@ -219,20 +234,11 @@ creation of items that are especially useful for that department.
 
 
 
-## Required Machines, Containers, and Implements
-
-### Machines
-
-* A reworked microwave oven
-* A traditional oven
-* A stovetop/grill
-
-### Containers
-
-* A combined Item/Regent container and variants
+## Implementation Details
 
 
-### Implements
+### Recipe Prototypes
+
 
 
 
@@ -248,4 +254,6 @@ creation of items that are especially useful for that department.
 
 
 
+## Brainstorming / Notes
 
+* How do recipes work?
